@@ -6,17 +6,17 @@
     font-weight: bold;
   }
   
-  .Blue {
+  .Level__advanced {
     background: var(--blue);
     border-radius: 11px;
     }
     
-    .Yellow {
+    .Level__intermediate {
     background: var(--yellow);
     border-radius: 11px;
     }
     
-    .Red {
+    .Level__beginner {
     background: var(--red);
     border-radius: 11px;
     }

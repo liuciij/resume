@@ -1,0 +1,159 @@
+{
+    "en": {
+        "header": {
+            "name": "Liucija Jakubonyte",
+            "title": "PROGRAMMER"
+        },
+        "links": {
+            "title": "LINKS"
+        },
+        "about": {
+            "title": "ABOUT ME",
+            "content": "Why programming you ask? Well, at a time when I was trying to figure out what I want from life I got a chance to meet some incredible people who were doing programming for their jobs. One of them encouraged me to try it out and learn by myself. It never entered my mind before that I could be a programmer so I have tryed - after some research I began learning front-end path on Codeacademy website. Why front-end is because I loved design and it seemed interesting. Soon this activity became almost every evening routine because I had a vision now! The time went by and later on I have undertood that it is not enough, that I need more information. After a pauze and coming back to my country (I was on my gap year at the time living abroad) I became a student of Codeacademy intensive front-end courses held Vilnius. As I am writing this resume I am still a student here until the end of july and my goal is to get a job in this area and become really skilled. From autumn I will be a student in London where I hope to get my first and long wished / worked for front-end developer's job! I am really motivated and want to find a supportive enviroment where I could grow fast anad grow strong!"
+        },
+        "education": {
+            "title": "EDUCATION",
+            "schoolName": "KLAIPĖDOS VYDŪNO GIMNAZIJA"
+        },
+        "personal": {
+            "title": "PERSONAL SKILS",
+            "skills": [
+                {
+                    "name": "TEAMWORK",
+                    "level": "advanced"
+                },
+                {
+                    "name": "COMMUNICATION",
+                    "level": "intermediate"
+                },
+                {
+                    "name": "ORGANISATION",
+                    "level": "beginner"
+                }
+            ]
+        },
+        "technical": {
+            "title": "TECHNICAL SKILLS"
+        },
+        "experience": {
+            "title": "WORK EXPERIENCE",
+            "jobs": {
+                "first": {
+                    "title": "Chef",
+                    "content": "At one time of my gap year I was working in the centre of London in a well-known irish pub. My job was in the kitchen with other colleagues and we were taking care of all the food on a menu. Pizzas, nachos, burgers, deserts, etc. It was really lovely days in my life however I have understood that kitchen work is not something that I want to do in my life.",
+                    "dots": [
+                        "• I have learned a lot about food;",
+                        "• I learned to colaborate with my fellows colleagues as we were working at least 2 of us at the same time"
+                    ]
+                },
+                "second": {
+                    "title": "Horse keeper, instructor",
+                    "content": "I was working for summer in equestrian center in my country - Lithuania. Apart from full daily care of all the horses my responsibilities were providing services - lessons for students as well as tourists rides in the nature. I was also one of summer riding camp instructors which was held 4 times during the summertime. I was working long hours and starting pretty early to do everything on time",
+                    "dots": [
+                        "• I developed great responsibility habits as so many things were depending on me;",
+                        "• I maintained great awareness of safety for others and for myself."
+                    ]
+                },
+                "third": {
+                    "title": "Website administrator",
+                    "content": "I was working with a company's website which specializes on very large goods (baths, taps, showers, decorations, shelves and many more) doing all these small things from research, translating, creating texts to renewing price lists, putting new goods to website, etc. Also I had a chance for my creativity to shine when writing an article for the media on specific topic when a hired company for that job was not able to do it appropriately.",
+                    "dots": [
+                        "• I have learned to cooraborate with people more as my job required a lot of specific knowledge;",
+                        "• I have learned about websites, research and developed some terminology which normal people do not use"
+                    ]
+                }
+            }
+        },
+        "footer": {
+            "adress": {
+                "title": "ADRESS",
+                "city": "Vilnius, Lithuania"
+            },
+            "contact": {
+                "title": "CONTACT",
+                "number": "+37067050695"
+            },
+            "social": {
+                "title": "SOCIAL"
+            }
+        }
+    },
+    "lt": {
+        "header": {
+            "title": "PROGRAMUOTOJA"
+        },
+        "links": {
+            "title": "NUORODOS"
+        },
+        "about": {
+            "title": "APIE MANE",
+            "content": "Kodėl programavimas? Tuo metu kai bandžiau išsiaiškint, ko noriu iš gyvenimo, sutikau keletą labai šaunių žmonių, kurie buvo programuotojai. Vienas iš jų, pamatęs mano susidomėjimą, pasiūlė idėją pačiai pradėt mokytis. Niekada anksčiau nebuvau apie tai pagalvojus, bet ši mintis man labai patiko ir aš, pasiskaičius apie programavimo kalbas, Codeacademy svetainėje pradėjau mokytis front-end kelią. O kodėl būtent front-end'ą, tai todėl, kad aš, taip labai mylėdama dizainą, supratau, jog man tai bus įdomiausia kryptis. Greitai ši veikla tapo kasdieniniu vakariniu užsiėmimu - turėjau viziją ateičiai! Bėgo dienos ir po kurio laiko supratau, kad to neužteks, kad man reikia daugiau informacijos. Po pauzės ir grįžimo atgal į savo šalį, nuėjau mokytis į Vilniaus Codeacademy intensyvius front-end kursus. Mano tikslas poi šių kursų yra gauti įsidarbinti šioje srityje ir tapti gera programuotoja. Tikiuosi rasti tokią aplinką, kurioje turėčiau visokeriopą pagalbą ir galėčiau augti ir tobulėti!"
+        },
+        "education": {
+            "title": "IŠSILAVINIMAS",
+            "schoolName": "KLAIPĖDOS VYDŪNO GIMNAZIJA"
+        },
+        "personal": {
+            "title": "ASMENINĖS SĄVYBĖS",
+            "skills": [
+                {
+                    "name": "KOMANDINIS DARBAS",
+                    "level": "advanced"
+                },
+                {
+                    "name": "BENDRAVIMAS",
+                    "level": "intermediate"
+                },
+                {
+                    "name": "ORGANIZACINIAI SUGEBĖJIMAI",
+                    "level": "beginner"
+                }
+            ]
+        },
+        "technical": {
+            "title": "TECHNINIAI GEBĖJIMAI"
+        },
+        "experience": {
+            "title": "DARBO PATIRTIS",
+            "jobs": {
+                "first": {
+                    "title": "Virtuvės šefė",
+                    "content": "Vienu momentu per savo laisvus metus (gap year), dirbau Londono centre esančiame, daug kam gerai žinomame airiškame bare. Dirbau virtuvėje su kitais kolegomis ir mes rūpinomės visu maistu iš menu - picoss, nachos, burgeriai, desertai ir pan. Tai buvo labai geros dienos mano gyvenime bet supratau, jog virtuvės darbas per daug stipriai manęs nežavi",
+                    "dots": [
+                        "• Daug visko išmokau apie maisto gamybą;",
+                        "• Išmokau bendradarbiavimo su kolegomis, nes tai buvo komandinis darbas"
+                    ]
+                },
+                "second": {
+                    "title": "Žirgų prižiūrėtoja, instruktorė",
+                    "content": "Visą vasarą pradirbau žirgyne. Neskaitant kasdieninės žirgų priežiūros, buvau atsakinga už paslaugas klientams - pamokas mokiniams bei vienkartinius pasijodinėjimus, pasivaikščiojimus su turistais gamtoje. Taip pat, keturiose pamainose buvau trenerė vaikų vasaros jodinėjimoo stovykloje. Dirbau daug ir turėjau keltis labai anksti, nes žirgai juk nelaukia",
+                    "dots": [
+                        "• Išsiugdžiau labai gerus įpročius, kas liečia atsakingumą viską atlikti laiku ir taip, kaip reikia;",
+                        "• Tapau labai išmintinga ties savo ir kitų asmenų saugumu."
+                    ]
+                },
+                "third": {
+                    "title": "Svetainės administratorė",
+                    "content": "Dirbau su el-svetaine kuri specializavosi plačiame spektre (vonios, kranai, dušai, dekoracijos, lentynos ir daugybė kitų). Dariau daug įvairiausių darbų pradedant analize, tekstų vertimu bei kūrimu ir baigiant prekių kainoraščių atnaujinimu, prekių į svetainę kėlimu ir panašiai. Taip pat, turėjau progą panaudot savo kūrūbinį talentą, kai paprašė parašyti straipsnį kėlimui į naujienų portalus (apie vonias, žinoma!), kai užsakytas straipsnis iš tuo užsiimančios įmonės nebuvo geros kokybės",
+                    "dots": [
+                        "• Išmokau daugiau komunikuoti, nes atlikti darbams reikėjo sužinoti daug informacijos;",
+                        "• Sužinojau daugiau apie svetaines, analizes ir  išmokau žodžių, kurių normalūs žmonės nenaudoja (pvz.: ventiliai, maišytuvas)"
+                    ]
+                }
+            }
+        },
+        "footer": {
+            "adress": {
+                "title": "ADRESAS",
+                "city": "Vilnius, Lietuva"
+            },
+            "contact": {
+                "title": "CONTAKTAI",
+                "number": "+37067050695"
+            },
+            "social": {
+                "title": "SOCIALINIAI TINKLAI"
+            }
+        }
+    }
+}

@@ -37,6 +37,23 @@ margin: 0 auto;
   margin-top: -20px;
 }
 
+.Green__block {
+  width: 1006px;
+  height: 61px;
+  background: #7ABCAC;
+  top: 0px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 20px;
+  }
+
+  select {
+      border: none;
+      height: 25px;
+  }
+
 
 main {
   width: 1006px;

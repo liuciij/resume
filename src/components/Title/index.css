@@ -18,7 +18,8 @@
     .Job {
       text-align: center;
       background-color: #000000;
-      width: 200px;
+      /* width: 200px; */
+      padding: 0 10px;
       height: 26px;
       font-style: normal;
       font-weight: bold;

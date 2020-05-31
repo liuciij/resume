@@ -1,9 +1,9 @@
 import React from "react";
 import "./index.css";
 
-function Badge({ color = "", children }) {
+function Badge({ className = "", children }) {
 
-    const classes = `Badge ${color}`;
+    const classes = `Badge Level__${className}`;
     return (
         <React.Fragment>
             <div class={classes}>{children}</div>
