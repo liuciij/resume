@@ -1,0 +1,15 @@
+.Bold {
+    font-weight: bold;
+  }
+
+  .Links {
+    margin-bottom: 3px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+  }
+
+  .Links > img {
+    margin: 0 5px;
+  }

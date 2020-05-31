@@ -1,0 +1,27 @@
+  .Separator__green {
+    border: none;
+    width: 72px;
+    height: 10px;
+    background: #7ABCAC;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    margin: 0;
+  }
+
+
+  .Separator__grey {
+    width: 216px;
+  height: 4px;
+  border: none;
+  background: #DCDCDC;
+  position: relative;
+  left: 72px;
+  margin: 0;
+  top: 3px
+  }
+
+  .Relative {
+    position: relative;
+    margin-bottom: 30px;
+  }
