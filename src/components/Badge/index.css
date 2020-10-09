@@ -11,12 +11,12 @@
     border-radius: 11px;
     }
     
-    .Level__intermediate {
+  .Level__intermediate {
     background: var(--yellow);
     border-radius: 11px;
-    }
+  }
     
-    .Level__beginner {
+  .Level__beginner {
     background: var(--red);
     border-radius: 11px;
-    }
+  }

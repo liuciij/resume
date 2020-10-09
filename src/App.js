@@ -4,6 +4,7 @@ import img1 from "./images/1.png";
 import img2 from "./images/2.png";
 import img3 from "./images/3.png";
 import img4 from "./images/4.png";
+import img5 from "./images/5.png";
 
 import Title from "./components/Title";
 import Separator from "./components/Separator";
@@ -34,8 +35,8 @@ function App() {
           </select>
         </div>
         <div className="Header__container">
-          <Title level="1" className="Name">LIUCIJA JAKUBONYTĖ</Title>
-          <Title level="2" className="Job">{data[lang].header.title}</Title>
+          <Title level="1" className="Name">{data[lang].header.name}</Title>
+          <Title level="2" className="Job">Web developer</Title>
         </div>
       </header>
       <main>
@@ -46,10 +47,10 @@ function App() {
           >
             <Separator />
             <div>
-              <Link img={img1}>LINKEDIN/username</Link>
-              <Link img={img2}>TWITTER/@user-handle</Link>
+              <Link img={img1} link="https://linkedin.com/in/liucija-jakubonyte-301719191">LINKEDIN/Liucija</Link>
               <Link img={img3} link="https://github.com/liuciij">GITHUB/liuciij</Link>
-              <Link img={img4}>BLOG/blog-name</Link>
+              <Link img={img5} link="https://www.facebook.com/liucija.jakubonyte">FB/Liucija Jakubonyte</Link>
+              {/* <Link img={img4}>BLOG/blog-name</Link> */}
             </div>
           </ContentBlock>
           <ContentBlock
@@ -69,7 +70,7 @@ function App() {
             <Separator />
             <School name={data[lang].education.schoolName} year="2018" degree="High school diploma"></School>
             <hr className="Short__line"></hr>
-            <School name="Vilnius Codeacademy school" year="01/2020 - 08/2020" degree="Sertificate"></School>
+            <School name="VILNIUS CODEACADEMY SCHOOL" year="01/2020 - 08/2020" degree="Certificate in front-end"></School>
           </ContentBlock>
           <ContentBlock className="Item4" title={data[lang].personal.title}>
             <Separator />
@@ -83,6 +84,7 @@ function App() {
             <Badge className="advanced">CSS/SCSS</Badge>
             <Badge className="intermediate">JAVASCRIPT</Badge>
             <Badge className="intermediate">REACT.JS</Badge>
+            <Badge className="beginner">NODE.JS</Badge>
           </ContentBlock>
         </div>
 
@@ -118,17 +120,17 @@ function App() {
         <hr className="Hr" />
 
         <footer>
-          <FooterItem title={data[lang].footer.adress.title}>
-            <p>Gerosios vilties g. 23-407A</p>
-            <p>{data[lang].footer.adress.city}</p>
+          <FooterItem title={data[lang].footer.address.title}>
+            <p>45A Bronsart road, SW6 6AJ</p>
+            <p>{data[lang].footer.address.city}</p>
           </FooterItem>
           <FooterItem title={data[lang].footer.contact.title}>
             <p>{data[lang].footer.contact.number}</p>
-            <p><a className="No__style" href="#">liuciij@gmail.com</a></p>
+            <p>liuciij@gmail.com</p>
           </FooterItem>
           <FooterItem title={data[lang].footer.social.title}>
-            <p><a className="No__style" href="#">Linkedin/username</a></p>
-            <p><a className="No__style" href="#">Twitter/@user-handle</a></p>
+            <p><a className="No__style" href="https://linkedin.com/in/liucija-jakubonyte-301719191" target="_blank">Linkedin/Liucija</a></p>
+            <p><a className="No__style" href="https://github.com/liuciij" target="_blank">Github/liuciij</a></p>
           </FooterItem>
         </footer>
 

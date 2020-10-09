@@ -1,15 +1,14 @@
 {
     "en": {
         "header": {
-            "name": "Liucija Jakubonyte",
-            "title": "PROGRAMMER"
+            "name": "Liucija Jakubonyte"
         },
         "links": {
             "title": "LINKS"
         },
         "about": {
             "title": "ABOUT ME",
-            "content": "Why programming you ask? Well, at a time when I was trying to figure out what I want from life I got a chance to meet some incredible people who were doing programming for their jobs. One of them encouraged me to try it out and learn by myself. It never entered my mind before that I could be a programmer so I have tryed - after some research I began learning front-end path on Codeacademy website. Why front-end is because I loved design and it seemed interesting. Soon this activity became almost every evening routine because I had a vision now! The time went by and later on I have undertood that it is not enough, that I need more information. After a pauze and coming back to my country (I was on my gap year at the time living abroad) I became a student of Codeacademy intensive front-end courses held Vilnius. As I am writing this resume I am still a student here until the end of july and my goal is to get a job in this area and become really skilled. From autumn I will be a student in London where I hope to get my first and long wished / worked for front-end developer's job! I am really motivated and want to find a supportive enviroment where I could grow fast anad grow strong!"
+            "content": "Why programming? Well, at a time when I was trying to figure out what I want from life I got a chance to meet some cool people who were doing programming. I was curious - have decided to try myself learning online. A new unknown world entered my life. Knowing that there is a lot more than I see and wanting to be good enough to get a job I started intense courses in my home country - Lithuania. Here I am after the courses now currently in London, hoping to get my dream job, motivated and excited!"
         },
         "education": {
             "title": "EDUCATION",
@@ -40,15 +39,15 @@
             "jobs": {
                 "first": {
                     "title": "Chef",
-                    "content": "At one time of my gap year I was working in the centre of London in a well-known irish pub. My job was in the kitchen with other colleagues and we were taking care of all the food on a menu. Pizzas, nachos, burgers, deserts, etc. It was really lovely days in my life however I have understood that kitchen work is not something that I want to do in my life.",
+                    "content": "At one time of my gap year I was working in the centre of London in a big irish pub. It was really lovely days in my life however I have understood that kitchen work is not something that I am passionate about.",
                     "dots": [
-                        "• I have learned a lot about food;",
-                        "• I learned to colaborate with my fellows colleagues as we were working at least 2 of us at the same time"
+                        "• good experience;",
+                        "• I have learned to colaborate with my fellows colleagues"
                     ]
                 },
                 "second": {
                     "title": "Horse keeper, instructor",
-                    "content": "I was working for summer in equestrian center in my country - Lithuania. Apart from full daily care of all the horses my responsibilities were providing services - lessons for students as well as tourists rides in the nature. I was also one of summer riding camp instructors which was held 4 times during the summertime. I was working long hours and starting pretty early to do everything on time",
+                    "content": "Apart from full daily care of all the horses my responsibilities were providing services - lessons for students as well as tourists rides in the nature. I was also one of summer riding camp instructors. I was working long hours and starting pretty early to do everything on time",
                     "dots": [
                         "• I developed great responsibility habits as so many things were depending on me;",
                         "• I maintained great awareness of safety for others and for myself."
@@ -56,22 +55,22 @@
                 },
                 "third": {
                     "title": "Website administrator",
-                    "content": "I was working with a company's website which specializes on very large goods (baths, taps, showers, decorations, shelves and many more) doing all these small things from research, translating, creating texts to renewing price lists, putting new goods to website, etc. Also I had a chance for my creativity to shine when writing an article for the media on specific topic when a hired company for that job was not able to do it appropriately.",
+                    "content": "I was working with a company's website selling good for bath rooms. I was doing small things from research, translating, creating texts to renewing price lists, putting new goods to website, etc. The company reached out to me to edit a some articles as they knew that I am good",
                     "dots": [
-                        "• I have learned to cooraborate with people more as my job required a lot of specific knowledge;",
+                        "• I have dived deep into  the details and technical stuff;",
                         "• I have learned about websites, research and developed some terminology which normal people do not use"
                     ]
                 }
             }
         },
         "footer": {
-            "adress": {
+            "address": {
                 "title": "ADRESS",
-                "city": "Vilnius, Lithuania"
+                "city": "London, United Kingdom"
             },
             "contact": {
                 "title": "CONTACT",
-                "number": "+37067050695"
+                "number": "07727195094"
             },
             "social": {
                 "title": "SOCIAL"
@@ -145,11 +144,11 @@
         "footer": {
             "adress": {
                 "title": "ADRESAS",
-                "city": "Vilnius, Lietuva"
+                "city": "Londonas, Jungtinė Karalystė"
             },
             "contact": {
-                "title": "CONTAKTAI",
-                "number": "+37067050695"
+                "title": "KONTAKTAI",
+                "number": "07727195094"
             },
             "social": {
                 "title": "SOCIALINIAI TINKLAI"
