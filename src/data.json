@@ -65,7 +65,7 @@
         },
         "footer": {
             "address": {
-                "title": "ADRESS",
+                "title": "ADDRESS",
                 "city": "London, United Kingdom"
             },
             "contact": {
@@ -79,14 +79,14 @@
     },
     "lt": {
         "header": {
-            "title": "PROGRAMUOTOJA"
+            "name": "Liucija Jakubonytė"
         },
         "links": {
             "title": "NUORODOS"
         },
         "about": {
             "title": "APIE MANE",
-            "content": "Kodėl programavimas? Tuo metu kai bandžiau išsiaiškint, ko noriu iš gyvenimo, sutikau keletą labai šaunių žmonių, kurie buvo programuotojai. Vienas iš jų, pamatęs mano susidomėjimą, pasiūlė idėją pačiai pradėt mokytis. Niekada anksčiau nebuvau apie tai pagalvojus, bet ši mintis man labai patiko ir aš, pasiskaičius apie programavimo kalbas, Codeacademy svetainėje pradėjau mokytis front-end kelią. O kodėl būtent front-end'ą, tai todėl, kad aš, taip labai mylėdama dizainą, supratau, jog man tai bus įdomiausia kryptis. Greitai ši veikla tapo kasdieniniu vakariniu užsiėmimu - turėjau viziją ateičiai! Bėgo dienos ir po kurio laiko supratau, kad to neužteks, kad man reikia daugiau informacijos. Po pauzės ir grįžimo atgal į savo šalį, nuėjau mokytis į Vilniaus Codeacademy intensyvius front-end kursus. Mano tikslas poi šių kursų yra gauti įsidarbinti šioje srityje ir tapti gera programuotoja. Tikiuosi rasti tokią aplinką, kurioje turėčiau visokeriopą pagalbą ir galėčiau augti ir tobulėti!"
+            "content": "Kodėl programavimas? Tuo metu kai bandžiau išsiaiškint, ko noriu iš gyvenimo, sutikau keletą labai šaunių žmonių, kurie buvo programuotojai. Buvau smalsi ir todėl nusprenžiau pabandyti išmokti pati interneto pagalba. Naujas, niekad nematytas pasaulis atsivėrė visu grožiu. Žinodama, kad daug ko dar nežinau ir nesuprantu bei norėdama įgyti daugiau patirties nuėjau mokytis į Vilniaus Codeacademy intensyvius front-end kursus. Štai dabar, jau po kursų, tikiuosi toliau tobulėti ir ieškau darbo šioje srityje."
         },
         "education": {
             "title": "IŠSILAVINIMAS",
@@ -142,7 +142,7 @@
             }
         },
         "footer": {
-            "adress": {
+            "address": {
                 "title": "ADRESAS",
                 "city": "Londonas, Jungtinė Karalystė"
             },

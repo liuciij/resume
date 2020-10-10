@@ -30,8 +30,8 @@ function App() {
       <header className="Header">
         <div class="Green__block">
           <select onChange={changeLang}>
-            <option value="lt">Lietuviškai</option>
             <option value="en">English</option>
+            <option value="lt">Lietuviškai</option>
           </select>
         </div>
         <div className="Header__container">
